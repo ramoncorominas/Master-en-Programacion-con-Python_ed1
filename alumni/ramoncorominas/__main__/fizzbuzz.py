@@ -1,3 +1,4 @@
+print(__name__)
 def _is_divisible(number: int, divisor: int) -> bool:
     return number % divisor == 0
 
